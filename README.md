@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on *Python*
 
-- 🌱 I’m currently learning *Python for Data Science on udemy*
+- 🌱 I’m currently learning *Python for Data Science on Udemy*
 
-- 👯 I’m looking to collaborate on *Open source project on python realted*
+- 👯 I’m looking to collaborate on *Open source project on Python*
 
 - 👨‍💻 All of my projects are available at [https://github.com/phenomenal001](https://github.com/phenomenal001)
 
