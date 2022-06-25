@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Swapnil Hunnurkar</h1>
+<h2 align="center">Algo Expert</h2>
 <h3 align="center">A passionate Python developer from India</h3>
 
-- 🔭 I’m currently working on *Python*
+- 🔭 I’m currently working on *Python* & *Data Structure*
 
-- 🌱 I’m currently learning *Python for Data Science on Udemy*
+- 🌱 I’m currently learning *Problem Solving Skill*
 
 - 👯 I’m looking to collaborate on *Open source project on Python*
 
